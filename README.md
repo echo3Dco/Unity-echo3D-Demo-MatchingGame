@@ -17,7 +17,7 @@ Play a matching game from memory!
       - Shark <br>
 * Open the _SampleScene_ scene in Unity.
 * [Set the API key](https://docs.echo3d.com/quickstart/access-the-console) and Entry IDs for those same models in the Inspector. <br>
-![APIKeyandEntryId](https://user-images.githubusercontent.com/99516371/195749269-f7a43477-b67a-49e8-a212-6abdb9c948fd.png)<br>
+![APIKeyandEntryId](https://user-images.githubusercontent.com/99516371/227667041-997690c9-61d5-4680-bc5b-957fc7fe5d2f.png)<br>
 ![NEWAPIKeyandEntryID](https://user-images.githubusercontent.com/99516371/205407613-b746840f-8e8a-4ec8-b056-a680395dfab4.png)<br>
 
 ## Run
